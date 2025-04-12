@@ -1,7 +1,6 @@
 fastapi
-
-uvicorn[standard]
 gunicorn
-
-transformers
+uvicorn[standard]
 torch
+transformers
+sentencepiece
